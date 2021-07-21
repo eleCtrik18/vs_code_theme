@@ -172,7 +172,7 @@
       "name": "js/ts punctuation separator key-value",
       "scope": "punctuation.separator.key-value",
       "settings": {
-        "foreground": "#d4d4d4"
+        "foreground": "#dbd7d7"
       }
     },
     {
