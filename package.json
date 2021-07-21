@@ -1,0 +1,46 @@
+{
+  "name": "electrik",
+  "displayName": "electrik",
+  "description": "as fast as electrik light on your IDE",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "publisher": "electrik18",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electrik18/vs_code_theme"
+  },
+  "keywords": [
+    "dark theme",
+    "dark blue theme",
+    "dark",
+    "blue theme",
+    "blue theme",
+    "electrik",
+    "dracula"
+  ],
+  "icon": "images/logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "electrik",
+        "uiTheme": "vs-dark",
+        "path": "./themes/electrik.json"
+      },
+      {
+        "label": "electrik (Italic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/electrik (Italics).json"
+      },
+      {
+        "label": "electrik (Bold)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/electrik (Bold).json"
+      }
+    ]
+  }
+}
